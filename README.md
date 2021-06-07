@@ -1,5 +1,6 @@
 # hyrule
 
+[![CI](https://github.com/migellars/jobBoard/actions/workflows/wf.yml/badge.svg?branch=main)](https://github.com/migellars/jobBoard/actions/workflows/wf.yml)
 ## Project setup
 ```
 yarn install
