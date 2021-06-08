@@ -4,9 +4,8 @@
 ## Project setup
 ```
 
-### Live on Heroku
+### Live on Heroku https://hidden-castle-20699.herokuapp.com/
 ```
-https://hidden-castle-20699.herokuapp.com/
 ```
 yarn install
 ```
