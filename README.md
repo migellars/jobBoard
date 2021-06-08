@@ -3,6 +3,11 @@
 [![CI](https://github.com/migellars/jobBoard/actions/workflows/wf.yml/badge.svg?branch=main)](https://github.com/migellars/jobBoard/actions/workflows/wf.yml)
 ## Project setup
 ```
+
+### Live on Heroku
+```
+https://hidden-castle-20699.herokuapp.com/
+```
 yarn install
 ```
 
